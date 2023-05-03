@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SimpleWeatherAppNatlex_SimpleWeatherAppNatlexUITests : NSObject
+@end
+@implementation PodsDummy_Pods_SimpleWeatherAppNatlex_SimpleWeatherAppNatlexUITests
+@end
